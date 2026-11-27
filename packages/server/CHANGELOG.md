@@ -1,5 +1,15 @@
 # @mastra/server
 
+## 1.86.0-alpha.9
+
+### Patch Changes
+
+- Fixed SSO callbacks to return identity provider errors instead of reporting a missing authorization code. Invalid callbacks containing both a code and an error are rejected. ([#24328](https://github.com/mastra-ai/mastra/pull/24328))
+
+- Updated dependencies:
+  - @mastra/core@1.86.0-alpha.9
+  - @mastra/mcp-apps-components@0.3.0-alpha.1
+
 ## 1.86.0-alpha.8
 
 ### Minor Changes

@@ -1,5 +1,13 @@
 # @mastra/temporal
 
+## 0.6.3-alpha.9
+
+### Patch Changes
+
+- Updated dependencies:
+  - @mastra/deployer@1.86.0-alpha.9
+  - @mastra/core@1.86.0-alpha.9
+
 ## 0.6.3-alpha.8
 
 ### Patch Changes

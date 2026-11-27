@@ -1,5 +1,13 @@
 # @mastra/code-sdk
 
+## 1.21.0-alpha.10
+
+### Patch Changes
+
+- Updated dependencies:
+  - @mastra/core@1.86.0-alpha.9
+  - @mastra/client-js@1.62.0-alpha.9
+
 ## 1.21.0-alpha.9
 
 ### Patch Changes
